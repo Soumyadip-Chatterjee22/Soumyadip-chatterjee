@@ -55,3 +55,14 @@ margin: 80px;
     margin-left: 80px;
     
  }
+
+.root{
+    color: white;
+    text-align: center;
+    font-family: 'IBM Plex Serif';
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    height: auto;
+ }
